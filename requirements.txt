@@ -10,4 +10,4 @@ pyasn1==0.6.1
 pyOpenSSL==24.3.0
 pycparser==2.22
 signxml==4.0.3
-six==1.16.0
+six==1.17.0
