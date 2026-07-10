@@ -9,5 +9,5 @@ lxml==6.1.0
 pyasn1==0.6.3
 pyOpenSSL==26.0.0
 pycparser==3.0
-signxml==4.4.0
+signxml==5.1.0
 six==1.17.0
