@@ -6,8 +6,8 @@ defusedxml==0.7.1
 eight==1.0.1
 future==1.0.0
 lxml==6.1.0
-pyasn1==0.6.4
-pyOpenSSL==26.0.0
+pyasn1==0.6.3
+pyOpenSSL==26.3.0
 pycparser==3.0
 signxml==5.1.0
 six==1.17.0
