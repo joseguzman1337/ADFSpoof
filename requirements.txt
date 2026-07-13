@@ -1,7 +1,7 @@
 asn1crypto==1.5.1
-certifi==2026.2.25
+certifi==2026.6.17
 cffi==2.1.0
-cryptography==48.0.1
+cryptography==49.0.0
 defusedxml==0.7.1
 eight==1.0.1
 future==1.0.0
